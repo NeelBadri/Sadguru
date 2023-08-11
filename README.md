@@ -1,2 +1,3 @@
 # effective-tribble
-My details 
+Neel Badri
+Gmail neelgbadri@gmail.com
